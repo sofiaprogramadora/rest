@@ -1,0 +1,13 @@
+PREGUNTA
+¿Agregar un Post nuevo, requiere de una url
+con identificador único?
+
+Respuesta: no, solo de posts/new
+
+PREGUNTA
+¿Borrar un Post, requiere de una URL con
+identificador único?
+
+Respuesta: Si
+
+
